@@ -20,3 +20,7 @@
     - 对话：https://ezapi.juhe-ai.top/v1/chat/completions
 
     - 向量：https://ezapi.juhe-ai.top/v1/embeddings
+
+## 3. 应用接入指南
+
+请参考EZ-work API官方文档：https://www.ezworkapi.com/zh/app-access.html
